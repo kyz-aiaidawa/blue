@@ -24,9 +24,9 @@
     1. Alpha
     2. Bravo
 ----
-*Emphasis* <br>
-_Emphasis_<br>
-**Strong**<br>
+*Emphasis*    
+_Emphasis_  
+**Strong**  
 __Strong__<br>
 **Strong**emphasis
 ***
@@ -34,3 +34,16 @@ __Strong__<br>
 この中は引用です
     タブでインデントしました。
 ```
+>引用です
+>>入れ子です
+>>>３つ入れ子です
+
+空白行で囲まれた一行
+
+空白行で（半角スペース２）　　  
+囲まれた（半角スペース２）　　  
+複数行　　  
+
+
+
+
